@@ -1,0 +1,43 @@
+body {
+    background-image: url(..//images/backgrounds/brain.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Hero section */
+.hero-section {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 100px;
+    /* margin-right: 25px; */
+    font-family: "Dosis 700", sans-serif;
+    color: lightgrey;
+    font-size: 2em;
+    text-align: center;
+    align-items: center;
+}
+
+.hero-section > .left > .left-heading  {
+    font-family: "Dosis 700", sans-serif;
+    font-size: 1.5em;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    /* opacity: 90%; */
+    color: black;
+}
+
+.hero-section > .right > .right-heading  {
+    display: flex;
+    font-family: "Dosis 700", sans-serif;
+    font-size: 1.5em;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+

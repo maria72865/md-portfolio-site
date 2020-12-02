@@ -1,0 +1,21 @@
+/* Page container styles */
+.page-container {
+    display: flex;
+    justify-content: center;
+}
+
+.page-container > .content-wrapper {
+    width: 1000px;
+}
+
+.page-container > .content-wrapper > #headshot {
+    width: 350px;
+    margin: 25px;
+    float: left;
+    border: none;
+}
+
+.page-container > .content-wrapper p {
+    letter-spacing: 1px;
+    line-height: 30px;
+}

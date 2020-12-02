@@ -1,0 +1,82 @@
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 10px; 
+    left: 49vw;
+    top: 0;
+    width: 53%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: darkgrey;
+    color: black;
+  }
+
+.modal-btn {
+  background-color: transparent;
+  color: lightgrey;
+  padding: 16px;
+  font-size: 1.1em;
+  border: none;  
+  transition: 0.5s;
+}
+
+.modal-btn:hover {
+  color: darkblue;
+  letter-spacing: 1.5px
+}
+  
+.modal-content {
+  background-color: lightgrey;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  color: #020202;
+  font-size: .6em;
+}
+
+.modal-content a {
+    font-family: "Dosis 700 700", sans-serif;
+    text-decoration: none;
+    transition: 0.5s;
+  
+}
+
+.modal-content img {
+  size: 50%;
+}
+
+.modal-content a:hover {
+    color: white;
+    letter-spacing: 2px
+}
+
+.modal1 {
+  display: none; 
+  position: fixed; 
+  z-index: 1; 
+  padding-top: 100px; 
+  left: 0;
+  top: 0;
+  width: 49%; 
+  height: 100%; 
+  overflow: auto; 
+  background-color: darkgrey;
+  color: black;
+}
+
+  
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+  
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}

@@ -1,0 +1,80 @@
+/* Common nav styles */
+.navigation-wrapper {
+    height: 10px;
+    background-color: transparent;
+    color: #cbcbcb;
+    /* Flexbox container */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 45px 20px;
+}
+
+/* Left column styles */
+.links-wrapper > .nav-link a {
+    font-family: 'Dosis 700 700', sans-serif;
+    color: white;
+}
+
+/* Center column styles */
+.navigation-wrapper > .left-column {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    width: 500px;
+}
+
+.navigation-wrapper > .left-column > .banner-image {
+    display: flex;
+    justify-content: left;
+}
+
+.navigation-wrapper > .left-column > .banner-image img {
+    filter: opacity(80%);
+    width: 300px;
+    padding: 10px;
+    margin-top: 60px;
+
+}
+
+.links-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links-wrapper > .nav-link {
+    width: 90px;
+    text-align: center;
+}
+
+.links-wrapper > .nav-link a {
+    font-family: "Dosis 700 700", sans-serif;
+    color: #cbcbcb;
+    font-size: 1.5em;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.links-wrapper > .nav-link a:hover {
+    color: darkblue;
+    letter-spacing: 2px
+}
+
+.about-links {
+    width: 200;
+    text-align: left;
+}
+
+.about-links a {
+    font-family: "Dosis 700 700", sans-serif;
+    color: darkblue;
+    font-size: 1.2em;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.about-links a:hover {
+    color: darkblue;
+    letter-spacing: 2px
+}

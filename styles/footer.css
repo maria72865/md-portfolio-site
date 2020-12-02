@@ -1,0 +1,62 @@
+/* Footer styles */
+.footer {
+    background-color:black;
+    color: #cbcbcb;
+    font-family: "Dosis 700", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 325px;
+    margin-top: 0px;
+}
+
+.footer > .logo-footer img {
+    width: 220px;
+    height: auto;
+    filter: invert(100%);
+    /* opacity: 0.5; */
+}
+
+.footer > .footer-phone span {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1em;
+    letter-spacing: 2px;
+} 
+
+/* .footer > .footer-phone > .hours {
+    font-size: 0.8em;
+    color: darkblue;
+    text-transform: uppercase;
+}  */
+
+.footer > .links-wrapper {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 400px; 
+}
+
+.footer > .social-media-icons-wrapper {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer > .social-media-icons-wrapper a {
+    font-size: 1.5em;
+    color: #cbcbcb;
+    transition: 0.5s;
+}
+
+.footer > .social-media-icons-wrapper a:hover {
+    color: darkblue;
+}
+
+.footer > .copyright-wrapper {
+    margin-bottom: 12px;
+    font-size: 0.7em;
+    color: #858585;
+}

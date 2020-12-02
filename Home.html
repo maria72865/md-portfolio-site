@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Maria Dahlquist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="static/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles/common.css" />
+    <link rel="stylesheet" href="styles/nav.css" />
+    <link rel="stylesheet" href="styles/variables.scss" />
+    <link rel="stylesheet" href="styles/footer.css" />
+    <link rel="stylesheet" href="styles/homepage.css" />
+    <link rel="stylesheet" href="styles/media-queries.css" />
+    <link rel="stylesheet" type="text/css" href="styles/pageload.css" />
+    <link rel="stylesheet" href="styles/modal.css" />
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"
+    integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    crossorigin="anonymous"></script>
+
+</head>
+
+<body>    
+
+    <div class="navigation-wrapper">
+
+        <div class="left-column">
+
+            <div class="banner-image">
+                <img src="images/logos/logo-transparent.png" alt="Logo">
+            </div>
+
+        </div>    
+
+        <div class="right-column">
+            <div class = "links-wrapper">
+
+                <div class="nav-link">    
+                     <a href="Home.html">Home</a>
+                 </div>
+                 
+                 <div class="nav-link">    
+                     <a href="about.html">About</a>
+                 </div>
+                                  
+                 <div class="nav-link">    
+                     <a href="contact.html">Contact</a>
+                 </div>
+ 
+            </div>
+ 
+            
+        </div>
+
+    </div>
+
+    <div class="hero-section">
+
+        <div class="left">
+
+            <div class="left-heading">
+                Logical
+            </div>
+            <br>
+            <div id="myModal" class="modal">
+
+                <div class="modal-content" id="a1"> 
+                    <span class="close">&#215;</span>
+                    <p><span>Apps</span></p>
+                    <a href="./apps/wb/wb.html" target="_blank">Aircraft Center of Gravity Calculations</a><br><br><br>
+                    <a href="./apps/bid/bid.html" target="_blank">International Aircraft Delivery Bid</a><br><br><br>
+                    <a href="./apps/caravan-comp/cccc.html" target="_blank">Cessna Caravan Competitor Comparison</a><br><br><br>
+                    <a href="./apps/faa-forms/faa-forms.html" target="_blank">Various Federal Aviation Administration Forms</a><br>
+
+                </div>
+
+                <div class="modal-content" id="a2"> 
+                    <span class="close">&#215;</span>
+                    <p><span>Digital Graphics</span></p>
+                    <a href="./digital-graphics/logos/logos.html" target="_blank">Custom Logos</a><br><br><br>
+                    <a href="./digital-graphics/marketing/marketing.html" target="_blank">Marketing Materials</a><br><br>
+                    <p>More coming soon...</p>
+                </div>
+                <div class="modal-content" id="a3"> 
+                    <span class="close">&#215;</span>
+                    <p><span>Websites</span></p>
+                        <a href="./critter-gitters" target="_blank"><img src="images/logos/logo-critter-gitters.jpg"></a><br>
+                        <a href="http://pilot-international.com"><img src="images/logos/pi-web.jpg"><br>(older Flash site - not maintained)</a><br><br>
+                        <a href="http://www.patriotguardks.org"><img src="images/logos/logo-pg.jpg"><br>(older site - edited and maintained by them)</a><br><br>
+                </div>
+            </div>
+              
+            <nav class="items"> 
+
+                <div class="modal-btn">
+                    <a class="myBtn" data-bid="a1">Apps</a> 
+                </div>
+                <br>
+                <div class="modal-btn">
+                    <a class="myBtn" data-bid="a2">Digital Graphics</a> 
+                </div>
+                <br>
+                <div class="modal-btn">
+                    <a class="myBtn" data-bid="a3">Websites</a>
+                </div>  
+                           
+            </nav>
+
+        </div>
+              
+        <div class="center-spacer">
+
+        </div>
+        
+        <div class="right">
+
+            <div class="right-heading">
+                Creative
+            </div>
+            <br>
+            <div id="myModal1" class="modal1">
+
+                <div class="modal-content" id="a4"> 
+                    <span class="close">&#215;</span>
+                    <p><span>Drawing and Painting</span></p>
+                    <a href="./drawing-painting/dp.html" target="_blank">Drawing and Painting</a><br><br><br>
+                    <p>More coming soon...</p>
+                </div>
+
+                <div class="modal-content" id="a5"> 
+                    <span class="close">&#215;</span>
+                    <p><span>Hand Crafted</span></p>
+                    <a href="./hand-crafted/hc.html" target="_blank">Wire Wrapping/Metal Crafting</a><br>
+                    <p>More coming soon...</p>
+                </div>
+
+                <div class="modal-content" id="a6"> 
+                    <span class="close">&#215;</span>
+                    <p><span>Property Improvements</span></p>
+                    <a href="./property-improvements/pi.html" target="_blank">Property Improvements</a><br><br><br>
+                    <p>More coming soon...</p>
+                </div>
+
+            </div>
+
+            <nav class="items"> 
+                  
+                <div class="modal-btn">
+                    <a class="myBtn1" data-bid="a4">Drawing and Painting</a> 
+                </div>
+                <br>
+                <div class="modal-btn">
+                    <a class="myBtn1" data-bid="a5">Hand Crafted</a>
+                </div>
+                <br>
+                <div class="modal-btn">
+                    <a class="myBtn1" data-bid="a6">Property Improvements</a>
+                </div>  
+                  
+            </nav>
+        </div>
+    </div>
+
+    <div data-loading>
+
+        <span> 
+            <!-- <span>
+                <img src='images/backgrounds/left.jpg' alt />
+            </span>  -->
+        </span>
+
+        <span> 
+            <!-- <span>
+                <img src='images/backgrounds/right.jpg' alt />
+            </span> -->
+        </span>
+
+    </div>
+
+    <script>
+
+        // Page load
+        window.addEventListener("load", function(){
+            var node = document.querySelector("[data-loading]");
+            node.setAttribute("data-loading","complete");
+        });
+
+        // Modal
+        $(document).on('click','.myBtn',function(){
+            var myTargetModal = '#' + $(this).data('bid');
+            $('#myModal').hide();
+            $('.modal-content').hide();
+            
+            $('#myModal').fadeIn();
+            $(myTargetModal).fadeIn();
+        });
+        
+        $("body" ).on( "click",".close", function() {
+              $('#myModal').hide();
+            $('.modal-content').hide();
+        });
+
+        // Right modal
+        $(document).on('click','.myBtn1',function(){
+            var myTargetModal = '#' + $(this).data('bid');
+            $('#myModal1').hide();
+            $('.modal-content').hide();
+            
+            $('#myModal1').fadeIn();
+            $(myTargetModal).fadeIn();
+        });
+        
+        $("body" ).on( "click",".close", function() {
+              $('#myModal1').hide();
+            $('.modal-content').hide();
+        });
+
+
+        </script>
+        
+</body>
+</html>

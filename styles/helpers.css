@@ -1,0 +1,28 @@
+/* Helpers */
+.spacer60 {
+    height: 100px;
+    width: 100%
+}
+
+.spacer10 {
+    height: 10px;
+    width: 100%;
+}
+
+.spacer100 {
+    width: 100rem;
+}
+
+.anchor-link {
+    text-decoration: none;
+}
+
+.anchor-link:focus {
+    outline: none;
+}
+
+.anchor-link h1::after {
+    font-family: "Font Awesome 5 Free";
+    content: " \f0c1";
+    font-weight: 900;
+}
