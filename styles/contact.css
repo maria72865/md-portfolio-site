@@ -6,9 +6,23 @@
 }
 
 .company-metadata-sidebar-wrapper > .logo img {
-    width: 15vw;
+    width: 110%;
     margin-bottom: 20px;
 }
 
+.company-metadata-sidebar-wrapper > .company-details-wrapper {
+    font-family: "Dosis 700", sans-serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 1.25em;
+}
 
+.company-metadata-sidebar-wrapper > .company-details-wrapper i {
+    color: darkblue;
+}
 

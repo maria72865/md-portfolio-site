@@ -21,7 +21,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 10px;
-    width: 500px;
+    /* width: 500px; */
 }
 
 .navigation-wrapper > .left-column > .banner-image {
@@ -34,7 +34,15 @@
     width: 300px;
     padding: 10px;
     margin-top: 60px;
+}
 
+.navigation-wrapper > .center-column {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
 }
 
 .links-wrapper {

@@ -1,0 +1,163 @@
+﻿Maria Dahlquist
+Russell, Kansas, USA
+720-715-4308
+maria@mariadahlquist.com
+mariadahlquist.com
+
+
+Links:
+
+https://www.linkedin.com/in/maria-t-dahlquist
+https://github.com/maria72865
+http://mariadahlquist.com/
+
+
+
+
+Profile:
+
+Creative professional with extensive experience in remote
+work, software development, employee/customer relations 
+and service and all other aspects of running a business,
+organized, detail oriented with strong leadership skills, 
+resourceful problem solver
+
+
+Employment History:
+
+Apprentice Support Tech/Student Mentor, Bottega                                          Remote
+March 2020 - June 2020
+
+   * Worked remotely with the mentor team to provide timely, 
+    quality support for the students via Zoom and Slack
+   * Formed connections with students during weekly 
+    mentor support sessions, “lent an ear” during the virus
+   *  Worked with Google Docs daily
+
+
+Manager, Quality Inn                                                                                  Russell, KS
+October 2018 - June 2019 
+
+   * Organized daily operations by creating interoffice documents 
+   * Coordinated with housekeepers to deep-clean 44 rooms 
+    and common areas after total renovation
+ * IT training and support for front desk staff at 2 hotels 
+   * Received several 5 Star guest reviews mentioning my name
+    on Expedia/Booking/etc.
+
+
+Manager, Kansas Country Inn                                         Oakley, KS
+June 2015 - June 2018
+
+   * Independently ran daily operations for out-of-state owners
+   * Created and managed hotel online presence via Expedia,
+    Booking.com, Facebook, website, etc.
+   * Organized, advertised and hosted annual dinners, raffles
+    and other events during pheasant season
+   * Created a welcoming atmosphere with projects that had
+    stories behind them and encouraged guest interaction
+   * IT training and support for front desk staff at 2 hotels 
+   * Used teamwork and employee encouragement/appreciation to
+    bring the hotel from 1.5 stars online to 4.8 stars
+   * Received several 5 star guest reviews mentioning my name
+
+
+Property Rehab, Ozarks Amphitheater/Carle Ent                       Camdenton, MO
+October 2013 - October 2014
+
+   * Worked independently for out-of-state owners
+   * Cleaned up and restored landscaping, wooden staircases,
+     concession stands, offices, dressing rooms and backstage
+   * Created custom artwork for office and backstage
+
+
+Gift Shop Sales, Echo Lake Lodge/Carle Ent                     Idaho Springs, CO
+October 2013 - October 2014
+
+   * Quickly learned all positions and worked as a floater in the
+    gift shop, restaurant, bar and kitchen
+   * Helped close up for winter, packed and stored entire gift
+    shop, deep cleaned employee housing then went to Ozarks
+    Amphitheater for owner
+
+
+Owner, Premium RVSM Services                                                             Remote
+March 2008 - May 2013
+
+   * First in the world to obtain Federal Aviation Administration 
+    authorization to issue post-production Temporary RVSM approvals
+   * Independently built company from the ground up, including
+    graphics, website, office documents, etc. from my home office
+   * Developed/printed customized manuals for each aircraft with
+    MS Word Mail Merge and MS Access
+     * Assisted the FAA with training aircraft manufacturer employees on
+    new online system
+
+
+Skills:
+
+
+JavaScript
+ReactJS
+Python 3
+CSS, SCSS
+MySQL
+Mongo DB
+API Integration
+Visual Studio
+Adobe CS
+Microsoft Office
+Google Docs
+Zoom
+AirCall
+FileZilla
+NGROK
+Microsoft Azure
+Command Line Interfaces
+
+
+Projects:
+
+Critter Gitters Pro, LLC
+Website utilizing custom logo design, HTML5, CSS3, animations, 
+media queries, custom forms, and responsive images 
+
+Shopify Interface
+Remote user interface to modify inventory utilizing React, JavaScript,
+NGROK, Polaris and Shopify App Bridge
+
+Aircraft Weight and Balance Calculations
+Stand-alone app for aircraft center of gravity calculations, written 
+in Visual Basic, options for several aircraft models, inputs for 
+pilot/passenger/cargo weights and custom seat configuration,
+resulting in printed form, with graph, as required by the FAA 
+
+Aircraft Overseas Delivery Bid Calculations
+Stand-alone Visual Basic app calculates mileage by entering ICAOs 
+(four letter airport codes) for each stop using longitude and latitude 
+stored within the app, as well as crew salaries, fuel costs based on
+current fuel rates, expected usage and expected wind direction, etc.
+
+
+Education:
+
+Bachelor of Computer Science
+Butler County Comm College
+Remote
+June 2002 - December 2006
+
+
+Full Stack Web Engineer
+Bottega Technical
+Remote
+May 2019 - March 2020
+
+Hobbies:
+
+Drawing
+Painting
+Metal Crafting
+Wire Wrapping
+Resin Art
+Gardening
+Property Improving
